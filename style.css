@@ -31,7 +31,7 @@ body{
 
 .box{
     background-color: var(--White-);
-    max-width: 350px;
+    max-width: 300px;
     display: flex;
     flex-direction: column;
     padding: 20px;
